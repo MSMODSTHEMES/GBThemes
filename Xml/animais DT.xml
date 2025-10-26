@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="ammar_not_profile_tc_Gactive" value="false" />
+    <int name="quoted_text_picker" value="-230128" />
+    <int name="tittle_size" value="20" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <boolean name="imsHideVStatus" value="false" />
+    <int name="key_updown_iconcolor" value="-1" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <int name="statuses_bar_bg_picker_GC" value="-4989959" />
+    <boolean name="key_hide_unsaved_num" value="false" />
+    <boolean name="TextConfigu_Gactive" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="MetaAI" value="true" />
+    <int name="key_dwh_size_row" value="80" />
+    <boolean name="onlinechat" value="false" />
+    <int name="key_bg_pp_samping" value="-4989959" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <boolean name="key_tt" value="true" />
+    <string name="key_edit_hidden_msg">!!MENSAGEM OCULTA!!</string>
+    <int name="HomeCounterBK" value="-74614" />
+    <int name="ModChatBubbleTextLeft" value="-13801043" />
+    <string name="key_chats_icon">0</string>
+    <int name="key_bg_jam_n_tgl_di_drawer_border" value="-230128" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="quoted_divider_picker" value="-4989959" />
+    <int name="ModFabTextColor" value="-13801043" />
+    <boolean name="key_counter_tx_Gactive" value="false" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <boolean name="key_mstellchat2" value="true" />
+    <int name="key_Header_belakang" value="-1" />
+    <boolean name="key_Text_nama_Gactive" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="key_Warna_jam_digital_di_beranda_Gactive" value="false" />
+    <string name="ppsh">0</string>
+    <boolean name="key_msnews_check" value="true" />
+    <int name="YxCardLinerHomeColor" value="-9724975" />
+    <boolean name="ammar_not_status_bc_Gactive" value="false" />
+    <boolean name="Nuevo_WhatsApp" value="false" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <string name="ppsf">0</string>
+    <boolean name="arch_chats_top" value="false" />
+    <boolean name="abu_saleh_research" value="true" />
+    <boolean name="onlineDotchat" value="false" />
+    <string name="key_community_icon">0</string>
+    <int name="ModChatBubbleHyperlinks" value="-13801043" />
+    <int name="key_msnewbottom1" value="-9724975" />
+    <int name="key_msnewbottom2" value="12" />
+    <int name="ModlastseenColor" value="-9724975" />
+    <int name="key_msnewbottom3" value="1" />
+    <boolean name="status_wantsendconfirmation" value="true" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-1" />
+    <int name="key_msnewstab4" value="1" />
+    <int name="key_msnewstab2" value="12" />
+    <int name="key_msnewstab1" value="-9724975" />
+    <boolean name="key_headerRE" value="true" />
+    <boolean name="on_anim" value="false" />
+    <int name="quoted_bg_picker" value="-74614" />
+    <int name="ModChatGStatusB_GCDir" value="0" />
+    <int name="statuses_bar_bg_picker_GCDir" value="0" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="key_stories_3d" value="true" />
+    <int name="sub_tittle_size" value="10" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="key_counter_bg" value="-230128" />
+    <string name="ammar_not_digitando_gv">0</string>
+    <string name="key_version">DEUS É FIEL🙌🙏💥🤍</string>
+    <boolean name="key_msnews_Gactive" value="false" />
+    <int name="ModChatColor" value="-1" />
+    <boolean name="hide_translation_icon" value="false" />
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="ammar_not_online_tc_Gactive" value="false" />
+    <boolean name="key_msnewsf_check" value="true" />
+    <int name="key_dwh_size_bannerC" value="160" />
+    <boolean name="key_mstellC" value="true" />
+    <int name="ammar_not_profile_tc" value="-230128" />
+    <boolean name="key_mstellB" value="true" />
+    <int name="Key_icon_Drawer" value="-1" />
+    <int name="key_bg_runtex_home" value="-1" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="key_ms_icon" value="-9724975" />
+    <int name="ammar_not_status_tc" value="-1" />
+    <boolean name="YxCardLinerHomeColor_Gactive" value="false" />
+    <boolean name="key_grsHeader" value="true" />
+    <string name="key_custom_iconup">0</string>
+    <int name="My_Card_configu" value="-9724975" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="ModChatGStatusT_Gactive" value="false" />
+    <boolean name="Key_icon_Drawer_Gactive" value="false" />
+    <boolean name="key_Warna_Tanggal_di_beranda_Gactive" value="false" />
+    <string name="yx_status_style">2</string>
+    <boolean name="key_bg_pp_samping_border_Gactive" value="false" />
+    <string name="ui_bottom_style">basic</string>
+    <boolean name="my_name" value="true" />
+    <int name="pagetitle_picker" value="-9724975" />
+    <int name="ammar_not_online_tc" value="-13801043" />
+    <int name="key_bg_jam_n_tgl_di_drawer" value="-74614" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatGStatusB_GC" value="-4989959" />
+    <boolean name="key_botPP" value="true" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="key_meler1" value="true" />
+    <int name="Fundo_Card_Border" value="-9724975" />
+    <string name="key_url">https://api.whatsapp.com/send?phone=557588432813</string>
+    <string name="yx_contact_style">3</string>
+    <boolean name="key_bg_jam_n_tgl_di_drawer_Gactive" value="false" />
+    <boolean name="hide_edge_icon" value="true" />
+    <int name="Bg_IG" value="884202489" />
+    <int name="key_dwh_size_banner" value="170" />
+    <boolean name="key_name_stories_Gactive" value="false" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <boolean name="key_story_border_Gactive" value="false" />
+    <int name="key_msnewsf4" value="1" />
+    <int name="key_msnewsf2" value="12" />
+    <int name="key_msnewsf1" value="-9724975" />
+    <boolean name="key_comun" value="false" />
+    <int name="text_size_pick" value="16" />
+    <string name="key_quick_position">top</string>
+    <boolean name="status_audio" value="false" />
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <int name="key_header_bawah" value="-230128" />
+    <int name="YxCardHomeColor" value="884202489" />
+    <string name="menit2">0</string>
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-4989959" />
+    <int name="ammar_not_digitando_tc" value="-1" />
+    <string name="menit1">0</string>
+    <boolean name="close_atual_chat" value="false" />
+    <boolean name="key_msbot" value="false" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <string name="key_admicon_list">0</string>
+    <int name="UnSeenColor" value="-74614" />
+    <string name="ammar_not_profile_gv">0</string>
+    <int name="date_right_color" value="-230128" />
+    <string name="my_contact_style">2</string>
+    <string name="jamm">0</string>
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="key_mstell" value="true" />
+    <boolean name="key_IsiDeviceInfo_Gactive" value="false" />
+    <int name="quickText" value="-1" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <boolean name="tittle_center" value="true" />
+    <int name="key_msnewbottom" value="-4989959" />
+    <string name="ammar_not_status_gv">0</string>
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <boolean name="key_bg_jam_n_tgl_di_drawer_border_Gactive" value="false" />
+    <boolean name="key_hide_ArchiveDrawer" value="false" />
+    <boolean name="key_hide_DateHome" value="true" />
+    <int name="ModDarkConPickColor" value="-1" />
+    <boolean name="key_hide_scrolldown" value="false" />
+    <boolean name="key_hide_PpHeader" value="false" />
+    <boolean name="key_header_bawah_border_Gactive" value="false" />
+    <boolean name="key_hide_ClockDrawer" value="false" />
+    <int name="ModConTextColor" value="-230128" />
+    <boolean name="chat_mypicV2" value="false" />
+    <int name="key_gelombang" value="-9724975" />
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <string name="ammar_not_online_gv">0</string>
+    <boolean name="My_Card_configu_Background_Gactive" value="false" />
+    <string name="jaaam2">0</string>
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <boolean name="ocutar_criar_link_de_chamada" value="false" />
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <boolean name="key_bg_devicesInfo_Gactive" value="false" />
+    <int name="TextConfigu" value="-9724975" />
+    <boolean name="close_edge_time" value="false" />
+    <int name="ModChatBtnColor" value="-13801043" />
+    <boolean name="key_counter_bg_Gactive" value="false" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <boolean name="key_borderProfile_Gactive" value="false" />
+    <boolean name="abu_saleh_key_fab_caht" value="false" />
+    <boolean name="AttBt" value="false" />
+    <string name="home_stories_style">view</string>
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <int name="seekbar_color_chat_picker" value="-13801043" />
+    <int name="ModFabPressedColor" value="0" />
+    <boolean name="key_msnewscar_Gactive" value="false" />
+    <int name="statuses_bar_bg_picker" value="-9724975" />
+    <int name="emojipopup_header" value="-4989959" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="ModChatGStatusB" value="-1" />
+    <int name="HomeBarText" value="-9724975" />
+    <int name="key_TitleDeviceInfo" value="-13801043" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="tittle_bold" value="true" />
+    <int name="ModChatGStatusT" value="-13801043" />
+    <boolean name="key_headerREnew" value="true" />
+    <boolean name="key_Header_belakang_Gactive" value="false" />
+    <int name="statuses_bar_text_picker" value="-1" />
+    <int name="key_header_bawah_border" value="-13801043" />
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <int name="key_bg_pp_samping_border" value="-74614" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="YxCardHomeColor_Gactive" value="false" />
+    <int name="key_borderProfile" value="0" />
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <int name="key_runtex_home_1" value="-9724975" />
+    <boolean name="key_text_ombak_Gactive" value="false" />
+    <boolean name="admin_abosaleh" value="false" />
+    <boolean name="edge_openinwebview" value="false" />
+    <string name="key_group_icon">0</string>
+    <boolean name="read_more" value="true" />
+    <boolean name="key_Warna_tanggal_di_drawer_Gactive" value="false" />
+    <int name="My_Card_configu_Background" value="-872489846" />
+    <boolean name="ammar_not_online_view" value="true" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <int name="square_ratio_picker" value="180" />
+    <int name="quickBK" value="-14833055" />
+    <boolean name="abu_saleh_hide_community_icon" value="true" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <int name="key_msnewsf" value="968088569" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <int name="participant_name_color_picker" value="-230128" />
+    <boolean name="Audio_ears" value="false" />
+    <boolean name="ammar_not_digitando_bc_Gactive" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="statuses_resizer" value="4" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="true" />
+    <boolean name="key_regg" value="true" />
+    <string name="key_status_ui">0</string>
+    <string name="key_dial1">0</string>
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <boolean name="grpAdmin_enabled" value="true" />
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <string name="key_dial2">0</string>
+    <int name="key_bg_devicesInfo_border" value="-13801043" />
+    <boolean name="key_bg_runtex_home_Gactive" value="false" />
+    <boolean name="key_Warna_jam_digital_di_drawer_Gactive" value="false" />
+    <boolean name="key_headerNA" value="true" />
+    <int name="SeenColor" value="-230128" />
+    <boolean name="key_headerNB" value="true" />
+    <int name="ModOnlineColor" value="-9724975" />
+    <int name="key_msnews4" value="1" />
+    <boolean name="abu_saleh_status_and_photo" value="true" />
+    <int name="ammar_not_online_bc" value="-74614" />
+    <int name="key_msnews1" value="-9724975" />
+    <int name="ModChaSendBKColor" value="-4989959" />
+    <int name="key_msnews2" value="12" />
+    <boolean name="ModContactNameColor_Gactive" value="false" />
+    <boolean name="Tollbar_Border_Gactive" value="false" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <boolean name="myCardHomeColor_Gactive" value="false" />
+    <string name="jammnew">0</string>
+    <int name="Tollbar_Border" value="-9724975" />
+    <string name="key_status_icon">0</string>
+    <int name="key_story_roundedmy" value="7" />
+    <boolean name="key_msnewsf_Gactive" value="false" />
+    <string name="pp0">0</string>
+    <boolean name="ammar_not_digitando_view" value="true" />
+    <boolean name="abu_saleh_forward_tovoice" value="false" />
+    <boolean name="key_msnewbottom_Gactive" value="false" />
+    <string name="detik1">0</string>
+    <string name="detik2">0</string>
+    <string name="ui_home_styleV3">basic</string>
+    <int name="key_msnews" value="968088569" />
+    <int name="ModHomeMentionIconColor" value="-16777216" />
+    <boolean name="key_bg_devicesInfo_border_Gactive" value="false" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <boolean name="Fundo_Card_Border_Gactive" value="false" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <int name="My_Card_configuRounded" value="7" />
+    <int name="ModConBackColor" value="-3085" />
+    <boolean name="My_Card_configu_Gactive" value="false" />
+    <boolean name="hide_action_mas" value="false" />
+    <boolean name="key_method_endgp" value="false" />
+    <boolean name="key_msnewscar_check" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_counter_tx" value="-1" />
+    <boolean name="abosaleh_mention_member" value="false" />
+    <int name="HomeCounterText" value="-13801043" />
+    <boolean name="direkt_link_degistir" value="false" />
+    <int name="ammar_not_status_bc" value="-9724975" />
+    <int name="key_text_ombak" value="-13801043" />
+    <boolean name="key_runtex_home_1_Gactive" value="false" />
+    <boolean name="ammar_not_profile_view" value="false" />
+    <string name="pps">0</string>
+    <int name="BGColor" value="-4989959" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <int name="key_Text_Drawer" value="-1" />
+    <boolean name="key_carousel_view" value="true" />
+    <boolean name="ocutar_borda" value="true" />
+    <boolean name="key_msnewstab_check" value="true" />
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <boolean name="abu_saleh_play_voice_note" value="false" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="key_mstellchat" value="true" />
+    <int name="ModChatEmojiColor" value="-13801043" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-13801043" />
+    <boolean name="key_hide_NoTlfDrawer" value="false" />
+    <int name="pagetitle_sel_picker" value="-9724975" />
+    <int name="key_ms_name" value="-9724975" />
+    <boolean name="key_send_hidden_msg" value="false" />
+    <boolean name="onlineDotchatColor_Gactive" value="false" />
+    <int name="key_Text_nama" value="-13801043" />
+    <boolean name="edge_finish" value="false" />
+    <int name="tabadgeBKColor" value="-4989959" />
+    <boolean name="ammar_not_digitando_tc_Gactive" value="false" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <int name="key_Warna_jam_digital_di_beranda" value="-9724975" />
+    <boolean name="Bg_IG_Gactive" value="false" />
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="entry_translate" value="false" />
+    <int name="tabadgeTextColor" value="-13801043" />
+    <string name="ConvoEntry">7</string>
+    <int name="ModConColor" value="-1" />
+    <string name="tick_style">allo</string>
+    <boolean name="key_hide_scrollup" value="false" />
+    <int name="tabindicator" value="-1" />
+    <int name="ammar_not_profile_bc" value="-4989959" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ammar_not_status_view" value="true" />
+    <boolean name="key_quick_view" value="false" />
+    <int name="BGColor_GC" value="-1" />
+    <boolean name="PicHead" value="false" />
+    <int name="key_IsiDeviceInfo" value="-13801043" />
+    <boolean name="key_header_bawah_Gactive" value="false" />
+    <boolean name="ModFabPressedColor_Gactive" value="false" />
+    <string name="inconvo_trans_option">in-y</string>
+    <boolean name="key_gelombang_Gactive" value="false" />
+    <boolean name="key_newphoto" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <int name="date_divider_color_picker" value="-13801043" />
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="key_name_stories" value="-13801043" />
+    <boolean name="key_hide_RunTextHome" value="false" />
+    <int name="ModChatBubbleText" value="-230128" />
+    <int name="rvkdmsg_icon_color" value="-13801043" />
+    <boolean name="ModChatGStatusB_Gactive" value="true" />
+    <int name="emojipopup_icons" value="-13801043" />
+    <int name="ModContactNameColor" value="-13801043" />
+    <boolean name="Audio_sensor" value="true" />
+    <string name="menitnew">0</string>
+    <boolean name="MasOption" value="false" />
+    <int name="key_msnewstab" value="1018420217" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="key_bg_pp_samping_Gactive" value="false" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <boolean name="key_storyCard_bg_color_Gactive" value="false" />
+    <int name="emojipopup_body" value="-74614" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <int name="ModChatRightBubble" value="-1" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-4989959" />
+    <boolean name="ammar_not_status_tc_Gactive" value="false" />
+    <boolean name="yo_want_airplanemode" value="false" />
+    <int name="key_storyCard_bg_color" value="884202489" />
+    <boolean name="yo_multi_account_menu" value="true" />
+    <boolean name="Archv_chats" value="false" />
+    <boolean name="key_Text_Drawer_Gactive" value="false" />
+    <boolean name="key_stories_alpha" value="false" />
+    <boolean name="key_stories_flat" value="true" />
+    <string name="papan">0</string>
+    <boolean name="yo_want_toolbar_camV2" value="false" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="key_stories_carousel" value="true" />
+    <int name="BGColor_GCDir" value="0" />
+    <string name="tabb">0</string>
+    <int name="key_msnewscar" value="1018420217" />
+    <string name="edge_position">right</string>
+    <boolean name="key_msnewstab_Gactive" value="false" />
+    <boolean name="key_msbb003" value="true" />
+    <string name="key_custom_icondown">0</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <string name="bubble_style">gabymess</string>
+    <boolean name="pic_inside" value="false" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <boolean name="key_stories_infinite" value="true" />
+    <string name="papannew">0</string>
+    <int name="date_left_color" value="-13801043" />
+    <boolean name="key_TitleDeviceInfo_Gactive" value="false" />
+    <boolean name="abu9aleh_status_audio" value="false" />
+    <int name="quoted_name_picker" value="-13801043" />
+    <boolean name="key_msnewbottom_check" value="true" />
+    <string name="my_contact_picker">2</string>
+    <boolean name="hide_message_bomber" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="on_shadow_text" value="false" />
+    <boolean name="tabindicator_Gactive" value="false" />
+    <boolean name="home_stories_key" value="true" />
+    <boolean name="key_reggC" value="true" />
+    <boolean name="key_header" value="true" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="fab_rounded_key" value="12" />
+    <string name="menit">0</string>
+    <int name="key_story_border" value="-9724975" />
+    <boolean name="mstela2" value="true" />
+    <boolean name="enable_ig_stories" value="true" />
+    <int name="ModConPickColor" value="-1" />
+    <boolean name="mstela1" value="true" />
+    <int name="key_Warna_Tanggal_di_beranda" value="-9724975" />
+    <string name="key_story_view">1</string>
+    <int name="myCardHomeColor" value="-74614" />
+    <string name="yx_calls_style">2</string>
+    <int name="ammar_not_digitando_bc" value="-230128" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="key_hide_Info" value="false" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="key_msnewscar2" value="12" />
+    <int name="key_msnewscar1" value="-9724975" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="key_hide_ClockHome" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-13801043" />
+    <boolean name="ModlastseenColor_Gactive" value="false" />
+    <string name="key_calls_icon">0</string>
+    <int name="onlineDotchatColor" value="-230128" />
+    <int name="ModHomeMentionIndBackground" value="-74614" />
+    <int name="key_updown_bgcolor" value="-14833055" />
+    <int name="key_msnewscar4" value="1" />
+    <int name="delta_code" value="1016" />
+    <boolean name="ammar_not_online_bc_Gactive" value="false" />
+    <int name="key_bg_devicesInfo" value="-74614" />
+    <int name="ModChatTextColor" value="-13801043" />
+    <boolean name="participant_name_color_picker_Gactive" value="false" />
+    <boolean name="hide_action_l_v2" value="false" />
+    <string name="jamm2">0</string>
+    <int name="key_Warna_tanggal_di_drawer" value="-13801043" />
+    <string name="jamm1">0</string>
+    <int name="key_Warna_jam_digital_di_drawer" value="-13801043" />
+    <boolean name="ammar_not_profile_bc_Gactive" value="false" />
+</map>
