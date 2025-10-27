@@ -3,9 +3,9 @@
 
     <!-- 🔗 Links base (mantidos apenas para referência) -->
     <data  
-        xmlurl="https://raw.githubusercontent.com/MSMODSTHEMES/GBThemes/main/Xml/"  
-        wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBThemes/main/Wall/"  
-        screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBThemes/main/Screen/"
+        xmlurl="https://cdn.jsdelivr.net/gh/MSMODSTHEMES/GBThemes@main/Xml/"  
+        wall="https://cdn.jsdelivr.net/gh/MSMODSTHEMES/GBThemes@main/Wall/"  
+        screen="https://cdn.jsdelivr.net/gh/MSMODSTHEMES/GBThemes@main/Screen/"
     />
 
        <!-- 🌟 Lista de temas --> 
